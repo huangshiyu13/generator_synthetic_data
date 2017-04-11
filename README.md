@@ -1,7 +1,7 @@
 generator_synthetic_data
 ===============
 
-Code accompanying the paper ["Expecting the Unexpected: Training Detectors for Unusual Pedestrians with Adversarial Imposters"](http://ml.cs.tsinghua.edu.cn:5000/publications/synunity/). This repo contains the scripts of the generator for synthetic data. Because of the copyright, we can't upload 3D models. 
+Code accompanying the paper ["Expecting the Unexpected: Training Detectors for Unusual Pedestrians with Adversarial Imposters"](https://arxiv.org/pdf/1703.06283). This repo contains the scripts of the generator for synthetic data. Because of the copyright, we can't upload 3D models. 
 
 ## Requirement
 - Windows or Mac OS
